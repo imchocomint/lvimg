@@ -11,7 +11,7 @@
 
 ## Installation
 - Clone this folder: [for-lvim](https://github.com/imchocomint/lvimg-4win/tree/main/for-lvim)
-- Put them in C:\Users\<your username>\.local\bin
+- Put them in `C:\Users\<your username>\.local\bin`
 - Paste these to your PowerShell 7 config file (by running `notepad $profile`):
 
 `Set-Alias lvimg "$HOME\.local\bin\lvimg.ps1"`
