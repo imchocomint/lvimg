@@ -16,7 +16,7 @@
 
 `Set-Alias lvimg "$HOME\.local\bin\lvimg.ps1"`
 
-`Set-Alias lvim 'C:\Users\mintg\.local\bin\lvim.ps1'`
+`Set-Alias lvim '$HOME\.local\bin\lvim.ps1'`
 
 - Try to launch lvim and lvimg in the terminal. If it doesn't work, restart the progress.
 - Download and extract the [Release](https://github.com/imchocomint/lvimg-4win/releases/tag/stable)
