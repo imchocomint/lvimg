@@ -30,7 +30,7 @@
 - VSCode or VSCodium
 
 ## Building
-Building is GUI-based and pretty straightfoward. Simply clone the repository to C:\Users\<your username>\.local\bin, open the `lvimg.ps1` file in VSCode/VSCodium. Click on "Package Script as EXE" on the toolbar and wait.
+Building is GUI-based and pretty straightfoward. Simply clone the repository to `C:\Users\<your username>\.local\bin`, open the `lvimg.ps1` file in VSCode/VSCodium. Click on "Package Script as EXE" on the toolbar and wait.
 
 # Credits
 [here](https://github.com/LunarVim/LunarVim/issues/1553#issuecomment-1342378723)
